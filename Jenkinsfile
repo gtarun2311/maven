@@ -21,7 +21,7 @@ pipeline
             {
                 script
                 {
-                    cicd.buildArtifact()
+                    cicd.builtArtifact()
                 }
             }
         }
