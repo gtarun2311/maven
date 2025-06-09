@@ -5,7 +5,7 @@ pipeline
     agent any
     stages
     {
-        stage('Download_Master')
+        stage('Downloadddd_Master')
         {
             steps
             {
@@ -15,7 +15,7 @@ pipeline
                 }
             }
         }
-        stage('Build_Master')
+        stage('Builddd_Master')
         {
             steps
             {
@@ -25,7 +25,7 @@ pipeline
                 }
             }
         }
-        stage('Deployment_Master')
+        stage('Deploymenttt_Master')
         {
             steps
             {
@@ -35,7 +35,7 @@ pipeline
                 }
             }
         }
-        stage('Testing_Master')
+        stage('Testinggg_Master')
         {
             steps
             {
@@ -46,7 +46,7 @@ pipeline
                 }
             }
         }
-        stage('Delivery_Master')
+        stage('Deliveryyy_Master')
         {
             steps
             {
