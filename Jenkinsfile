@@ -5,7 +5,7 @@ pipeline
     agent any
     stages
     {
-        stage('Download_loans')
+        stage('Downloaddddddd_loans')
         {
             steps
             {
@@ -15,7 +15,7 @@ pipeline
                 }
             }
         }
-        stage('Build_loans')
+        stage('Buildddddd_loans')
         {
             steps
             {
@@ -25,7 +25,7 @@ pipeline
                 }
             }
         }
-        stage('Deployment_loans')
+        stage('Deploymentttttt_loans')
         {
             steps
             {
