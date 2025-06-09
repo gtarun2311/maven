@@ -1,4 +1,4 @@
-@Library('MyLibrary')_
+@Library('sharedlibrary_cicd')_
 
 pipeline
 {
